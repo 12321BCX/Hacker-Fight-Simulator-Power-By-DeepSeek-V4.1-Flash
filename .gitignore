@@ -1,0 +1,8 @@
+# local test tooling
+tools/venv/
+tools/lib/
+tools/out/
+tools/luaucheck/target/
+
+# generated logs
+*.log
